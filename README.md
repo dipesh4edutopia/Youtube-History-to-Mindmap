@@ -2,7 +2,7 @@
 Imports youtube watch History to Freeplane Mindmap <br>
 Youtube video :https://www.youtube.com/watch?v=dVRibUQinII<br>
  Requires Freeplane software to view the files
-# Export the History from  Youtube:
+# Steps to Export the History from  Youtube:
 
 <ol>
 <li>Click the accounts icon</li>
